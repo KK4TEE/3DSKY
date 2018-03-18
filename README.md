@@ -1,6 +1,6 @@
 # 3DSKY
 
-![3DSKY](doc/img/3DSKY-Banner?raw=true "An openSCAD design along with a fully printed and assembled 3DSKY")
+![3DSKY](doc/img/3DSKY-Banner.png?raw=true "An openSCAD design along with a fully printed and assembled 3DSKY")
 
 A 3D Kerbalized replica of NASA's [DSKY Apollo  Guidance Computer](https://en.wikipedia.org/wiki/Apollo_Guidance_Computer).
 
@@ -8,7 +8,7 @@ This replica is designed to be printed in PLA on a commodity 3D printer. It feat
 
 Please also refer to my [Control-Panel](https://github.com/KK4TEE/Control-Panel) project which provides an interface for the 3DSKY to interface with the [Kerbal Space Program](https://kerbalspaceprogram.com) video game. The python script telemachus_plugin.py was an early attempt at this, but has been superseded by [Control-Panel](https://github.com/KK4TEE/Control-Panel).
 
-|DSKY-LED_LABELS.png is sized to fit into the space between the top cover and the top riser. You are welcome to adjust the image to show alternative status output with the LEDs.| ![LED Labels](DSKY-LED_LABELS.png)|
+| DSKY-LED_LABELS.png is sized to fit into the space between the top cover and the top riser. You are welcome to adjust the image to show alternative status output with the LEDs. | ![LED Labels](DSKY-LED_LABELS.png) |
 |:-----:|:---:|
 
 ## Media Coverage
